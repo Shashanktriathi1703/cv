@@ -1,0 +1,16 @@
+//console.time('mycode time taken');
+console.log('Hello console');
+console.log(4 + 34);
+console.log(34);
+console.log(true);
+console.log([34, 1, 2, 7, 3]);
+console.log({ shashank: 'this', marks: 94 });
+console.table({ shashank: 'this', marks: 94 });
+console.warn('This is the warning');
+//console.clear();
+//console.timeEnd('mycodentime taken at the end');
+console.assert(23>183,'this is not possible age>183');
+console.error('this is an error');
+console.log(344*8);
+console.log('shashank ji');
+console.log('shashank ji');
